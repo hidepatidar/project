@@ -16,7 +16,7 @@ man ls        -   manual page for ls
 ls --help     -   for help
 ```
 
-** 2. show present working directory**
+&#x20;**2. show present working directory**
 
 ```
 pwd
@@ -105,7 +105,7 @@ nano                             -   start a nano text editor
 nano filename                    -   open file
 ```
 
-**11. vim text editor **
+**11. vim text editor**&#x20;
 
 ```
 vim                               -    openning vim text editor

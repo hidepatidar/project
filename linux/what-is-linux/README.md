@@ -6,12 +6,12 @@ linux is a operating system like windows mac os and etc and one of the most popu
 
 The Linux operating system comprises several different pieces
 
-* **Bootloader - **The software that manages the boot process of your computer
-* **Kernel - **The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
-* **Init system - **init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified Bootloader).
-* **Daemons - **These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
-* **Desktop environment - **This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.)&#x20;
-* **Applications - **Linux offers thousands upon thousands of high-quality software titles that can be easily found and installed.
+* **Bootloader -** The software that manages the boot process of your computer
+* **Kernel -** The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
+* **Init system -** init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified Bootloader).
+* **Daemons -** These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
+* **Desktop environment -** This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.)&#x20;
+* **Applications -** Linux offers thousands upon thousands of high-quality software titles that can be easily found and installed.
 
 ### Open source
 
